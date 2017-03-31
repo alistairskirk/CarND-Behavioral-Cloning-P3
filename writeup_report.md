@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./writeup/NvidiaArch.png "Model Visualization"
-[image2]: ./writeup/MSEvsEPOCH.png "MSE vs. Epochs"
+[image2]: ./writeup/Graph_MSEvsEPOCHS.png "MSE vs. Epochs"
 [image3]: ./writeup/center.jpg "Center Driving Image"
 [image4]: ./writeup/off_center.jpg "Off C Image"
 [image5]: ./writeup/off_left.jpg "Off L Image"
